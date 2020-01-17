@@ -8,6 +8,7 @@ It also offers a nice and polish user interface/experience as well as the follow
     • Authenticate to the Imgur platform
     • Display photos put online by the user connected in the form of a feed.
     • Search for photos on the plateform.
+    • clickable and resizable pictures.
     • Upload photos to the plateform.
     • Filter the displayed photos.
     
