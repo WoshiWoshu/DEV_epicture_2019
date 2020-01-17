@@ -18,8 +18,7 @@ PREREQUISITES :
 USAGE :
 
     Open and run the project on Android Studio.
-    
-    
-![Image description](pic/feed.png)
 
 ![Image description](pic/search.png)
+
+![Image description](pic/feed.png)
